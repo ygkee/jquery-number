@@ -1,0 +1,22 @@
+{
+  "name": "jquery-number",
+  "version": "2.1.5",
+  "author": {
+    "name": "Sam Sehnert",
+    "url": "http://www.teamdf.com/web/jquery-number-format-redux/196/"
+  },
+  "description": "A jQuery plugin which implements a permutation of phpjs.org's number_format to provide. simple number formatting, insertion, and as-you-type masking of a number.",
+  "license": "MIT",
+  "homepage": "https://www.customd.com/articles/11/jquery-number-format",
+  "main": "./jquery.number.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/customd/jquery-number"
+  },
+  "bugs": {
+    "url": "https://github.com/customd/jquery-number/issues"
+  },
+  "keywords": [
+    "jquery"
+  ]
+}
